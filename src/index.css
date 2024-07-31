@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/samsungone');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p, a{
+    font-family: 'SamsungOne', sans-serif;
+
+}
